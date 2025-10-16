@@ -1,6 +1,6 @@
 ### Hi! I'm Kira!
 📚 I'm a Master's student in computer science at Columbia University. <br>
-🌱 I’m currently learning cloud computing, machine learning theory and software as a service.\n<br>
+🌱 I’m currently learning cloud computing, machine learning theory and software as a service.<br>
 📫 How to reach me: kna2121@columbia.edu
 <!--
 **kna2121/kna2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
