@@ -1,4 +1,4 @@
-## Hi! I'm Kira a Master's student at Columbia University.
+### Hi! I'm Kira a Master's student at Columbia University.
 🌱 I’m currently learning cloud computing, machine learning theory and software as a service.
 📫 How to reach me: kna2121@columbia.edu
 <!--
